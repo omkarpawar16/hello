@@ -1,0 +1,125 @@
+<div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 132px;">
+                    <img src="Cars/Maruti Suzuki/Celerio.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Celerio</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 264px;">
+                    <img src="Cars/Maruti Suzuki/Ciaz.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Ciaz</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 396px;">
+                    <img src="Cars/Maruti Suzuki/Eeco.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Eeco</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 132px;">
+                    <img src="Cars/Maruti Suzuki/Ertiga.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Ertiga</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 264px;">
+                    <img src="Cars/Maruti Suzuki/Esteem.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Esteem</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 396px;">
+                    <img src="Cars/Maruti Suzuki/Estilo.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Estilo</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: 25px;">
+                    <img src="Cars/Maruti Suzuki/Grand Vitara.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Grand Vitara</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 132px;">
+                    <img src="Cars/Maruti Suzuki/Gypsy.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Gypsy</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 264px;">
+                    <img src="Cars/Maruti Suzuki/Ignis.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Ignis</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 396px;">
+                    <img src="Cars/Maruti Suzuki/Kizashi.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Kizashi</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: 25px;">
+                    <img src="Cars/Maruti Suzuki/Omni.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Omni</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 132px;">
+                    <img src="Cars/Maruti Suzuki/Ritz.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Ritz</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 264px;">
+                    <img src="Cars/Maruti Suzuki/S-Cross.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">S-Cross</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 396px;">
+                    <img src="Cars/Maruti Suzuki/S-Presso.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">S-Presso</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: 25px;">
+                    <img src="Cars/Maruti Suzuki/Swift Dzire.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Swift Dzire</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 132px;">
+                    <img src="Cars/Maruti Suzuki/SX4.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">SX4</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 264px;">
+                    <img src="Cars/Maruti Suzuki/Versa.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Versa</p>
+                    </div>
+                </div>
+
+                <div class="card" data-target="p-1" data-name="s-1" style="width: 7rem; height: 6.5rem; margin-top: -104px; margin-left: 396px;">
+                    <img src="Cars/Maruti Suzuki/Vitara Brezza.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <p class="card-text" style="margin-top: -25px; text-align: center; font-family: sans-serif;">Vitara Brezza</p>
+                    </div>
+                </div>
