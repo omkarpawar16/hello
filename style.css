@@ -1,32 +1,53 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+.wrapper{
+    height: 70px;
+    border: 1px solid #ddd;
+    display: flex;
+    overflow-x: auto;
+    bottom: -100px;
+    
+}
+.wrapper::-webkit-scrollbar{
+    width: 0;
+}
+.wrapper .a{
+    text-align:center;
+    background-color: #ddd;
+    margin-left: 10px;
+   
+}
+
 .card-body .p{
     font-size: x-large;
-    font-family: 'i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6IfybRUz1r5t.ttf';
+    font-family: sans-serif;
+    overflow: hidden;
+
 }
 .card-body .left{
     margin-left: 50%;
     margin-top: -195px;
     line-height: 2em;
     font-size: large;
-    font-family:'i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6IfybRUz1r5t.ttf';
+    font-family:sans-serif;
     list-style: fa-duotone fa-badge-check;
 }
 .card-body .right{
     font-size: large;
     line-height: 2em;
-    font-family: 'i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6IfybRUz1r5t.ttf';
+    font-family: sans-serif;
 }
 .btn{
-    font-family: 'i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6IfybRUz1r5t.ttf';
+    font-family: sans-serif;
     width: 170px;
+    font-size: 12px;
     height:50px;
     margin-left: 60%;
     margin-top: 15%;
     margin-bottom: 20px;
     border-color: #FE3D3D;
     transition: 0.7s;
-    
+
 }
+h3
 .btn:hover{
     text-decoration: none;
     background-color: #FE3D3D;
@@ -36,11 +57,11 @@
 ul {
     list-style: none;
     padding: 0;
-  }
-  li {
+}
+li {
     padding-left: 1.3em;
-  }
-  li:before {
+}
+li:before {
     size: 5px;
     color: green;
     content: "\f00c"; /* FontAwesome Unicode */
@@ -48,4 +69,4 @@ ul {
     display: inline-block;
     margin-left: -1.3em; /* same as padding-left set on li */
     width: 1.3em; /* same as padding-left set on li */
-  }
+}
